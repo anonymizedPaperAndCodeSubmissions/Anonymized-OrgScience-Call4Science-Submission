@@ -7,9 +7,7 @@ It contains a proof-of-concept R artifact for treating human coders and LLM conf
 ## Repository contents
 
 - `qualbias.R` — prototype implementation  
-- `illustration.R` — executable demonstration using synthetic data  
-- `Technical_Appendix.pdf` — statistical framework and function documentation  
-- `Proposal.pdf` — project proposal  
+- `example.R` — executable demonstration using synthetic data  
 
 ## Running the illustration
 
